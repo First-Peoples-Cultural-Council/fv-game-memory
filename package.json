@@ -1,7 +1,7 @@
 {
-    "name": "fv-game-memory",
+    "name": "@fpcc/fv-game-memory",
     "version": "1.0.0",
-    "description": "",
+    "description": "Memory game for FirstVoices.com",
     "main": "scripts/game.js",
     "scripts": {
       "develop": "webpack-dev-server --config webpack.config.js --progress --colors --content-base www/",
