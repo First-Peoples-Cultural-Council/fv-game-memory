@@ -194,15 +194,14 @@ class Main extends Base
         itemImage.anchor.setTo(0.5, 0.5);
         itemImage.x = 0
         itemImage.y = 0
-        itemImage.width = 100;
         itemImage.height = 100;
         itemImage.scale.setTo(0.5);
 
-        const word = this.game.make.text(0, 0, cardData.word, { font: "12px Arial", fill: "#FFFFFF", align: "center" });
+        const word = this.game.make.text(0, 0, cardData.word, { font: "12px Arial", fill: "#FFFFFF", align: "center", wordWrap: true, wordWrapWidth: 100 });
         word.anchor.setTo(0.5);
         word.y = -65;
 
-        const translation = this.game.make.text(0, 0, cardData.translation, { font: "12px Arial", fill: "#FFFFFF", align: "center", wordWrap: true, wordWrapWidth: 150 });
+        const translation = this.game.make.text(0, 0, cardData.translation, { font: "12px Arial", fill: "#FFFFFF", align: "center", wordWrap: true, wordWrapWidth: 100 });
         translation.anchor.setTo(0.5);
         translation.y = 65;
 

@@ -26,59 +26,58 @@ let defaultGameConfig = {
                 audio: 'assets/sounds/sample.mp3'
             },
             {
-                word: 'Word 2',
-                translation: 'english translation',
-                image: 'assets/images/example/2.png',
-                audio: 'assets/sounds/sample.mp3'
-            },
-            {
-                word: 'Word 3',
-                translation: 'english translation',
-                image: 'assets/images/example/3.png',
-                audio: 'assets/sounds/sample.mp3'
-            },
-            {
-                word: 'Word 4',
-                translation: 'english translation',
-                image: 'assets/images/example/4.png',
-                audio: 'assets/sounds/sample.mp3'
-            },
-            {
-                word: 'Word 5',
-                translation: 'english translation',
-                image: 'assets/images/example/5.png',
-                audio: 'assets/sounds/sample.mp3'
-            },
-            {
-                word: 'Word 6',
-                translation: 'english translation',
+                word: 'Word 1 asdasda dadadasd ad a',
+                translation: 'english translation long sentence',
                 image: 'assets/images/example/1.png',
                 audio: 'assets/sounds/sample.mp3'
             },
             {
-                word: 'Word 7',
-                translation: 'english translation',
-                image: 'assets/images/example/2.png',
+                word: 'Word 1 asdasda dadadasd ad a',
+                translation: 'english translation long sentence',
+                image: 'assets/images/example/1.png',
                 audio: 'assets/sounds/sample.mp3'
             },
             {
-                word: 'Word 8',
-                translation: 'english translation',
-                image: 'assets/images/example/3.png',
+                word: 'Word 1 asdasda dadadasd ad a',
+                translation: 'english translation long sentence',
+                image: 'assets/images/example/1.png',
                 audio: 'assets/sounds/sample.mp3'
             },
             {
-                word: 'Word 9',
-                translation: 'english translation',
-                image: 'assets/images/example/4.png',
+                word: 'Word 1 asdasda dadadasd ad a',
+                translation: 'english translation long sentence',
+                image: 'assets/images/example/1.png',
                 audio: 'assets/sounds/sample.mp3'
             },
             {
-                word: 'Word 10',
-                translation: 'english translation',
-                image: 'assets/images/example/5.png',
+                word: 'Word 1 asdasda dadadasd ad a',
+                translation: 'english translation long sentence',
+                image: 'assets/images/example/1.png',
                 audio: 'assets/sounds/sample.mp3'
-            }
+            },
+            {
+                word: 'Word 1 asdasda dadadasd ad a',
+                translation: 'english translation long sentence',
+                image: 'assets/images/example/1.png',
+                audio: 'assets/sounds/sample.mp3'
+            },            {
+                word: 'Word 1 asdasda dadadasd ad a',
+                translation: 'english translation long sentence',
+                image: 'assets/images/example/1.png',
+                audio: 'assets/sounds/sample.mp3'
+            },
+            {
+                word: 'Word 1 asdasda dadadasd ad a',
+                translation: 'english translation long sentence',
+                image: 'assets/images/example/1.png',
+                audio: 'assets/sounds/sample.mp3'
+            },
+            {
+                word: 'Word 1 asdasda dadadasd ad a',
+                translation: 'english translation long sentence',
+                image: 'assets/images/example/1.png',
+                audio: 'assets/sounds/sample.mp3'
+            },
         ],
         
         "Things": [
