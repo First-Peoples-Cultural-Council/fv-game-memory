@@ -5,6 +5,7 @@ import GameTitle from './gametitle';
 import Main from './main';
 import GameOver from './gameover';
 import GameConfig from './config';
+import Menu from './menu';
 
 /**
  * Memory Game
@@ -28,6 +29,7 @@ class Game {
         game.state.add("Preload", Preload);
         game.state.add("GameTitle", GameTitle);
         game.state.add("Main", Main);
+        game.state.add("Menu", Menu);
         game.state.add("GameOver", GameOver);
         game.state.start("Boot");
 
