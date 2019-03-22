@@ -15,6 +15,8 @@ let defaultGameConfig = {
         bubble:'assets/images/bubble.png',
         rightArrow:'assets/images/right_arrow.png',
         leftArrow:'assets/images/left_arrow.png',
+        unfullscreen:'assets/images/unfullscreen.png',
+        fullscreen:'assets/images/fullscreen.png'
     },
 
     categories: {

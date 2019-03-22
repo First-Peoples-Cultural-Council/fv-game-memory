@@ -44,6 +44,8 @@ class Preload extends Base
         this.load.image('bubble', config.images.bubble);
         this.load.image('rightArrow', config.images.rightArrow);
         this.load.image('leftArrow', config.images.leftArrow);
+        this.load.image('fullscreen', config.images.fullscreen);
+        this.load.image('unfullscreen', config.images.unfullscreen);
         
         const categories = this.config.categories;
 

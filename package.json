@@ -1,6 +1,6 @@
 {
   "name": "@fpcc/fv-game-memory",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Memory game for FirstVoices.com",
   "main": "scripts/game.js",
   "scripts": {

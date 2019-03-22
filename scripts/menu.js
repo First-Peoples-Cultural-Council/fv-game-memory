@@ -41,6 +41,7 @@ class Menu extends Base
         this.createPrevButton();
         this.createTitle();
         this.createMuteButton();
+        this.createFullscreenButton();
 
         this.scrollingMap = this.game.add.tileSprite(0, 240, this.pages.length * this.game.width, this.game.height, "transp");
         this.pageText = this.game.add.text(this.game.width / 2, 150, "Select a Category (1 / " + this.pages + ")", { font: "30px Arial", fill: "#FFFFFF" })
